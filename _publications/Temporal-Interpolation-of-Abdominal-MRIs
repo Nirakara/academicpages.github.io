@@ -1,5 +1,7 @@
 ---
 title: "Temporal Interpolation of Abdominal MRIs acquired during Free-Breathing"
+authors: "Neerav Karani"
+excerpt: 'Under review'
 collection: publications
 permalink: /publications/Temporal-Interpolation-of-Abdominal-MRIs
 ## venue: "Journal 1"
@@ -9,6 +11,6 @@ permalink: /publications/Temporal-Interpolation-of-Abdominal-MRIs
 ## citation: 'Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).'
 ---
 
-## Abstract
+# Abstract
 We propose a convolutional neural network (CNN) based solution for temporal image interpolation in navigated 2D multi-slice dynamic MRI acquisitions. Such acquisitions can achieve high contrast time-resolved volumetric images without the need for breath-holding, which makes them essential for quantifying breathing induced motion for MR guided therapies.
 Reducing the number of navigator slices needed in these acquisitions would allow increasing through-plane resolution and reducing overall acquisition time. 
