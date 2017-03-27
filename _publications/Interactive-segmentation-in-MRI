@@ -2,8 +2,8 @@
 title: "Interactive segmentation in MRI for orthopedic surgery planning: bone tissue"
 collection: publications
 permalink: /publications/Interactive-segmentation-in-MRI
-venue: "The International Journal of Computer Assisted Radiology and Surgery (IJCARS), 2017."
-excerpt: 'We propose an interactive segmentation framework for MR images and evaluate the outcome for segmentation of bones. We use a random forest classification and a random walker-based spatial regularization. The latter enables the incorporation of user input as well as enforcing a single connected anatomical structures, thanks to which a selective sampling strategy is proposed to substantially improve the supervised learning performance.'
+venue: "The International Journal of Computer Assisted Radiology and Surgery (IJCARS)"
+excerpt: ''
 date: 2017-03-24
 paperurl: http://link.springer.com/article/10.1007/s11548-017-1570-0
 citation: 'Ozdemir, F., Karani, N., Fürnstahl, P. et al. Int J CARS (2017). doi:10.1007/s11548-017-1570-0'
