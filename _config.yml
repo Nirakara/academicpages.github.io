@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Neerav Karani"
   avatar           : "neerav.jpg"
-  bio              : "<p> PhD Candidate, <p> Biomedical Image Computing, <p> ETH Zurich"
+  bio              : "PhD Candidate, <br> Biomedical Image Computing, <br> ETH Zurich"
   location         : "Zurich, Switzerland"
   employer         : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
